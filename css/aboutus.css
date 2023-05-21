@@ -19,7 +19,7 @@ p {
 /* ---------------------aboutus start-------------------------------------------------------- */
 section.aboutus {
     width: 100%;
-    background-image: url(../img/tree-bg.png);
+    background-image: url(../tree-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 100%;
@@ -73,7 +73,7 @@ section.aboutus header {
 section.content {
     width: 100%;
     height: 110vh;
-    background-image: url(../img/background-light.jpg);
+    background-image: url(../background-light.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: 100% 100%;
