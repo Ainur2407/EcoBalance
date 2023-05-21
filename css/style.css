@@ -69,7 +69,7 @@ section.main .left_part .enter {
 section.main .right_part {
     padding: 15px;
     width: 45%;
-    background-image: url(../background-dark.png);
+    background-image: url(background-dark.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 100%;
